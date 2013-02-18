@@ -10,4 +10,4 @@ Unix
 Copy nonose.pl to ~/.purple/plugins/
 Windows
 ----
-Copy nonose.pl to C:\Program Files\Pidgin\Plugins. You may need to install the 32 bit version of [ActivePerl](http://www.activestate.com/activeperl/downloads)
+Copy nonose.pl to C:\Program Files\Pidgin\Plugins. You'll need to install [Perl for Windows](http://strawberryperl.com/download/5.10.1.5/strawberry-perl-5.10.1.5.msi)
